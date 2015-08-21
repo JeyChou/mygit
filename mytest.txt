@@ -3,7 +3,7 @@
   <divisions>
     <division>
       <id>beijing</id>
-      <name>北京修改</name>
+      <name>北京修改分支测试</name>
       <location>
         <timezone>Beijing Time</timezone>
         <timezone_offset_gmt>288000</timezone_offset_gmt>
